@@ -4,7 +4,7 @@ LDA Sample v1
 <img src="result.png" width="480">
 
 ## 概要
-sklearnライブラリを用いて2クラスの線形判別分析を行うサンプル
+sklearnライブラリを用いて2クラスの線形判別分析を行う[サンプル](https://github.com/yoshimoto56/ML/blob/master/Classification/LDA_sample.py)
 
 ## 説明
 L次元特徴ベクトルを用いて，線形判別分析(LDA)により2クラスの分類を行う．
