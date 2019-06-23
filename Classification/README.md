@@ -1,7 +1,7 @@
 LDA Sample v1
 ====
 
-<img src="result.png" width="480"><img src="overview2.png" width="480">
+<img src="result.png" width="480">
 
 ## 概要
 sklearnライブラリを用いて2クラスの線形判別分析を行うサンプル
