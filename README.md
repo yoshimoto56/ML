@@ -14,8 +14,8 @@ This project is for rapidlly implementing the machine learning algorithm.
 
 ## Contents
 
-- [Regression Analysis](https://github.com/yoshimoto56/ML/Regression)
-- [Classification](https://github.com/yoshimoto56/ML/Classification)
+- [Regression Analysis](https://github.com/yoshimoto56/ML/tree/master/Regression)
+- [Classification](https://github.com/yoshimoto56/ML/tree/master/Classification)
 
 ## Licence
 
